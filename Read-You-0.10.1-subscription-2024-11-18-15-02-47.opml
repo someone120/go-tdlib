@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="2.0">
+  <head>
+    <title>Read You</title>
+    <dateCreated>Mon Nov 18 15:02:49 GMT+08:00 2024</dateCreated>
+  </head>
+  <body>
+    <outline isDefault="true" text="默认" title="默认">    <outline isFullContent="false" htmlUrl="https://tuna.moe/feed.xml" text="清华大学 TUNA 协会" title="清华大学 TUNA 协会" isNotification="false" xmlUrl="https://tuna.moe/feed.xml" />
+    <outline isFullContent="false" htmlUrl="https://blog.reincarnatey.net/index.xml" text="失迹の博客" title="失迹の博客" isNotification="false" xmlUrl="https://blog.reincarnatey.net/index.xml" />
+</outline>
+    <outline isDefault="false" text="新闻资讯" title="新闻资讯">    <outline isFullContent="false" htmlUrl="https://rsshub.someone120.top/hellobtc/information/" text="白话区块链 - 首页 最新" title="白话区块链 - 首页 最新" isNotification="false" xmlUrl="https://rsshub.someone120.top/hellobtc/information/" />
+</outline>
+    <outline isDefault="false" text="科技" title="科技">    <outline isFullContent="true" htmlUrl="https://sspai.com/feed" text="少数派" title="少数派" isNotification="false" xmlUrl="https://sspai.com/feed" />
+    <outline isFullContent="false" htmlUrl="https://feed.appinn.com/" text="小众软件" title="小众软件" isNotification="false" xmlUrl="https://feed.appinn.com/" />
+    <outline isFullContent="false" htmlUrl="https://plink.anyfeeder.com/ssapi/matrix" text="少数派 -- Matrix" title="少数派 -- Matrix" isNotification="false" xmlUrl="https://plink.anyfeeder.com/ssapi/matrix" />
+    <outline isFullContent="false" htmlUrl="https://www.ruanyifeng.com/blog/atom.xml" text="阮一峰的网络日志" title="阮一峰的网络日志" isNotification="false" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" />
+</outline>
+    <outline isDefault="false" text="金融" title="金融">    <outline isFullContent="false" htmlUrl="https://rsshub.someone120.top/xueqiu/hots" text="热帖 - 雪球" title="热帖 - 雪球" isNotification="false" xmlUrl="https://rsshub.someone120.top/xueqiu/hots" />
+</outline>
+    <outline isDefault="false" text="个人博客" title="个人博客">    <outline isFullContent="false" htmlUrl="https://yfi.moe/feed.xml" text="Yunfi Blog" title="Yunfi Blog" isNotification="false" xmlUrl="https://yfi.moe/feed.xml" />
+</outline>
+  </body>
+</opml>
